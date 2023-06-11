@@ -10,7 +10,7 @@ This code will automatically do the following:
 * Install Python
 * Install Selenium ("pip install selenium")
 * Download Driver for launching the automation
-  * For Chrome you can download the driver from https://chromedriver.storage.googleapis.com/index.html
+  * For Chrome, you can download the driver from https://chromedriver.storage.googleapis.com/index.html
   * Be sure to match the version of Chrome you have
 * Input value for "driver_path" and "save_file_here" in info.json file.
   * "driver_path" is the path for your browser's driver
