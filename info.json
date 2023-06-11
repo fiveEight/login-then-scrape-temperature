@@ -1,0 +1,10 @@
+{
+    "driver_path": "",
+    "username": "automated",
+    "password": "automatedautomated",
+    "target_url": "https://automated.pythonanywhere.com/login/",
+    "save_file_here": "",
+    "home_path": "/html/body/nav/div/a",
+    "button_path": "/html/body/div[1]/div/div/div[3]/form/button",
+    "temperature_element_path": "/html/body/div[1]/div/h1[2]"
+}
